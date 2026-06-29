@@ -24,25 +24,25 @@ A RMC é um dos principais polos industriais do Brasil. Em 25 anos, como evoluiu
 
 As exportações cresceram e a pauta se diversificou: o índice de concentração (HHI) caiu de 0,048 para 0,020 em duas décadas.
 
-![Base industrial da RMC](img/bloco1_painel_RMC.png)
+![Base industrial da RMC](bloco1_painel_RMC.png)
 
 **2. Competitividade — mais produtos com vantagem comparativa**
 
 Os produtos em que a RMC tem vantagem comparativa revelada (RCA > 1) passaram de 120 (2000) para 198 (2024). A trajetória não foi linear: estabilizou nos anos 2010, recuou na pandemia e acelerou depois.
 
-![Competitividade da RMC](img/bloco2_painel_RMC.png)
+![Competitividade da RMC](bloco2_painel_RMC.png)
 
 **3. Sofisticação — complexidade comparável à de economias industriais**
 
 A cesta exportadora da RMC apresenta complexidade econômica próxima à de economias industriais avançadas, com estrutura produtiva similar à de países como Alemanha, Coreia do Sul e Eslovênia.
 
-![Sofisticação da RMC](img/bloco3_painel_RMC.png)
+![Sofisticação da RMC](bloco3_painel_RMC.png)
 
 **4. Oportunidades — para onde a região pode crescer**
 
 Cruzando o que a RMC ainda não exporta com vantagem e o que está ao alcance de suas capacidades, dois alvos se confirmam pelos dois métodos testados: **máquinas-ferramenta de acabamento** (SH4 8460) e **máquinas de ensaio de materiais** (SH4 9024).
 
-![Oportunidades da RMC](img/bloco4_painel_RMC.png)
+![Oportunidades da RMC](bloco4_painel_RMC.png)
 
 ---
 
@@ -55,7 +55,7 @@ Cruzando o que a RMC ainda não exporta com vantagem e o que está ao alcance de
 | **Linguagens** | Python (mineração e estruturação dos dados) · R (análise e visualização) |
 | **Método** | Complexidade econômica e *product space* (Hidalgo et al., 2007; Hausmann & Hidalgo, 2011) |
 
-A pasta [`codigo/`](codigo/) traz um script representativo da etapa de análise e visualização em R. O pipeline completo de mineração e os demais blocos podem ser disponibilizados mediante interesse.
+O arquivo [\`exemplo_analise.R\`](exemplo_analise.R) traz um script representativo da etapa de análise e visualização em R. O pipeline completo de mineração e os demais blocos podem ser disponibilizados mediante interesse.
 
 ---
 
@@ -69,3 +69,4 @@ A pasta [`codigo/`](codigo/) traz um script representativo da etapa de análise 
 ---
 
 *Estudo independente, para fins de análise e portfólio. Metodologia baseada em referências públicas de complexidade econômica; dados de fontes abertas.*
+
